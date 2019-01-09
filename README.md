@@ -1,0 +1,2 @@
+# LegalDocHubCodacyFrontend
+LegalDocHubCodacyFrontend
